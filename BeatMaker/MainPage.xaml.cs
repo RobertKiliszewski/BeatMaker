@@ -140,15 +140,49 @@ namespace BeatMaker
 
         private void Button21_Tapped(object sender, TappedRoutedEventArgs e)
         {
-
+            if (count == 0)
+            {
+                EDMLoop.IsLooping = true;
+                EDMLoop.Play();
+                count++;
+            }
+            else if (count == 1)
+            {
+                EDMLoop.IsLooping = false;
+                EDMLoop.Pause();
+                count--;
+            }
         }
         private void Button22_Tapped(object sender, TappedRoutedEventArgs e)
         {
+            if (count == 0)
+            {
+                EDMLoop2.IsLooping = true;
+                EDMLoop2.Play();
+                count++;
+            }
+            else if (count == 1)
+            {
+                EDMLoop2.IsLooping = false;
+                EDMLoop2.Pause();
+                count--;
+            }
 
         }
         private void Button23_Tapped(object sender, TappedRoutedEventArgs e)
         {
-
+            if (count == 0)
+            {
+                EDMLoop3.IsLooping = true;
+                EDMLoop3.Play();
+                count++;
+            }
+            else if (count == 1)
+            {
+                EDMLoop3.IsLooping = false;
+                EDMLoop3.Pause();
+                count--;
+            }
         }
 
         //https://docs.microsoft.com/en-us/windows/uwp/files/quickstart-reading-and-writing-files

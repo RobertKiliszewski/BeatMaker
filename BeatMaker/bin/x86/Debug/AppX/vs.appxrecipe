@@ -28,13 +28,13 @@
     <AppXManifest Include="D:\BeatMaker\BeatMaker\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-07T22:11:21.992</Modified>
+      <Modified>2017-04-07T23:15:28.243</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\bin\x86\Debug\BeatMaker.exe">
       <PackagePath>entrypoint\BeatMaker.exe</PackagePath>
-      <Modified>2017-04-07T22:11:19.434</Modified>
+      <Modified>2017-04-07T23:15:20.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Robert\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,6 +448,18 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T22:11:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop.wav">
+      <PackagePath>Assets\Sound\EDMLoop.wav</PackagePath>
+      <Modified>2017-04-07T23:06:53.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop2.wav">
+      <PackagePath>Assets\Sound\EDMLoop2.wav</PackagePath>
+      <Modified>2017-04-07T23:10:28.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop3.wav">
+      <PackagePath>Assets\Sound\EDMLoop3.wav</PackagePath>
+      <Modified>2017-04-07T23:10:28.134</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\Guitar.wav">
       <PackagePath>Assets\Sound\Guitar.wav</PackagePath>
       <Modified>2017-04-06T22:18:09.189</Modified>
@@ -512,7 +524,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\bin\x86\Debug\BeatMaker.xr.xml">
       <PackagePath>BeatMaker.xr.xml</PackagePath>
-      <Modified>2017-04-07T22:02:01.402</Modified>
+      <Modified>2017-04-07T23:15:19.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -521,11 +533,11 @@
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-07T22:02:09.567</Modified>
+      <Modified>2017-04-07T23:15:25.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\bin\x86\Debug\Core\BeatMaker.exe">
       <PackagePath>BeatMaker.exe</PackagePath>
-      <Modified>2017-04-07T22:11:21.972</Modified>
+      <Modified>2017-04-07T23:15:28.224</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

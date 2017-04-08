@@ -95,22 +95,22 @@
         <!--Third Row -->
         <GridView Grid.Row="2" Grid.Column="1"  VerticalAlignment="Center" HorizontalAlignment="Center">
             <StackPanel>
-                <Button HorizontalAlignment="Center" Tapped="Button21_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
-                
+                <Button Content="EDM1" HorizontalAlignment="Center" Tapped="Button21_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
+                <MediaElement Name="EDMLoop" AutoPlay="False" Source="/Assets/Sound/EDMLoop.wav" IsLooping="True" Volume="2" />
             </StackPanel>
         </GridView>
 
         <GridView Grid.Row="2" Grid.Column="2"  VerticalAlignment="Center" HorizontalAlignment="Center">
             <StackPanel>
-                <Button HorizontalAlignment="Center" Tapped="Button22_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
-                
+                <Button Content="EDM2" HorizontalAlignment="Center" Tapped="Button22_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
+                <MediaElement Name="EDMLoop2" AutoPlay="False" Source="/Assets/Sound/EDMLoop2.wav" IsLooping="True" Volume="2" />
             </StackPanel>
         </GridView>
 
         <GridView Grid.Row="2" Grid.Column="3"  VerticalAlignment="Center" HorizontalAlignment="Center">
             <StackPanel>
-                <Button HorizontalAlignment="Center" Tapped="Button23_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
-                
+                <Button Content="EDM3" HorizontalAlignment="Center" Tapped="Button23_Tapped" Height="50" Width="80" Background="DarkGray"></Button>
+                <MediaElement Name="EDMLoop3" AutoPlay="False" Source="/Assets/Sound/EDMLoop3.wav" IsLooping="True" Volume="2" />
             </StackPanel>
         </GridView>
         <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -334,6 +334,15 @@
     <AppxPackagedFile Include="C:\Users\Robert\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop.wav">
+      <PackagePath>Assets\Sound\EDMLoop.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop2.wav">
+      <PackagePath>Assets\Sound\EDMLoop2.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\EDMLoop3.wav">
+      <PackagePath>Assets\Sound\EDMLoop3.wav</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\BeatMaker\BeatMaker\Assets\Sound\Guitar.wav">
       <PackagePath>Assets\Sound\Guitar.wav</PackagePath>
     </AppxPackagedFile>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="14282RobertKiliszewski.DJBeatMaker" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BeatMaker.xr.xml" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/BeatMaker.xr.xml">
+				<Candidate type="Path">
+					<Value>BeatMaker.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Sound">
+					<NamedResource name="BuildUp.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/BuildUp.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\BuildUp.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Drum.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/Drum.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\Drum.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="EDMLoop.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/EDMLoop.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\EDMLoop.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="EDMLoop2.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/EDMLoop2.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\EDMLoop2.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="EDMLoop3.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/EDMLoop3.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\EDMLoop3.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Guitar.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/Guitar.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\Guitar.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SlowBeat.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/SlowBeat.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\SlowBeat.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TDrum.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/TDrum.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\TDrum.wav</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Techno.wav" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Assets/Sound/Techno.wav">
+						<Candidate type="Path">
+							<Value>Assets\Sound\Techno.wav</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://14282RobertKiliszewski.DJBeatMaker/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
